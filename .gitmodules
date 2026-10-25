@@ -1,0 +1,4 @@
+[submodule "xboxrecomp"]
+	path = xboxrecomp
+	url = https://github.com/phobos665/DirectXbox-Recomp.git
+	branch = feat/wwe21-renderer
